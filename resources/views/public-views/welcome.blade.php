@@ -14,8 +14,8 @@
               <span class="d-inline-block u-icon-v3 u-icon-size--xl g-bg-primary g-color-white rounded-circle g-mb-30">
                   <i class="icon-communication-081 u-line-icon-pro"></i>
                 </span>
-              <h3 class="h5 g-color-gray-dark-v2 g-font-weight-600 text-uppercase mb-3">Beautiful Designs</h3>
-              <p class="mb-0">We strive to embrace and drive change in our industry which allows us to keep our clients relevant.</p>
+              <h3 class="h5 g-color-gray-dark-v2 g-font-weight-600 text-uppercase mb-3">UPCOMING EVENT</h3>
+              <p class="mb-0">LOCAL CONTENT CONFERENCE 2018 01 May TO 02 MAY, HOUSTON TEXAS. Marak Alliance be exhibiting during OTC 2018, visit us at booth # 6258</p>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -65,7 +65,7 @@
           <div class="col-lg-4 col-md-6 g-mb-30 g-mb-0--lg">
             <article class="u-block-hover u-shadow-v21 rounded">
               <figure class="u-bg-overlay g-bg-black-opacity-0_4--after">
-                <img class="img-fluid w-100 u-block-hover__main--zoom-v1" src="../../assets/img-temp/400x270/img17.jpg" alt="Image description">
+                <img class="img-fluid w-100 u-block-hover__main--zoom-v1" src="{{asset('unify/assets/img-temp/400x270/img17.jpg')}}" alt="Image description">
               </figure>
 
               <header class="u-bg-overlay__inner g-pos-abs g-top-30 g-right-30 g-left-30 g-color-white">
@@ -78,17 +78,17 @@
               <ul class="list-inline u-bg-overlay__inner g-pos-abs g-bottom-10 g-left-30 g-opacity-0_8">
                 <li class="list-inline-item">
                   <div class="g-brd-around g-brd-2 g-brd-white rounded-circle">
-                    <img class="g-width-30 g-height-30 rounded-circle" src="../../assets/img-temp/100x100/img12.jpg" alt="Image description">
+                    <img class="g-width-30 g-height-30 rounded-circle" src="{{asset('unify/assets/img-temp/100x100/img12.jpg')}}" alt="Image description">
                   </div>
                 </li>
                 <li class="list-inline-item g-ml-minus-20">
                   <div class="g-brd-around g-brd-2 g-brd-white rounded-circle">
-                    <img class="g-width-30 g-height-30 rounded-circle" src="../../assets/img-temp/100x100/img5.jpg" alt="Image description">
+                    <img class="g-width-30 g-height-30 rounded-circle" src="{{asset('unify/assets/img-temp/100x100/img5.jpg')}}" alt="Image description">
                   </div>
                 </li>
                 <li class="list-inline-item g-ml-minus-20">
                   <div class="g-brd-around g-brd-2 g-brd-white rounded-circle">
-                    <img class="g-width-30 g-height-30 rounded-circle" src="../../assets/img-temp/100x100/img7.jpg" alt="Image description">
+                    <img class="g-width-30 g-height-30 rounded-circle" src="{{asset('unify/assets/img-temp/100x100/img7.jpg')}}" alt="Image description">
                   </div>
                 </li>
                 <li class="list-inline-item g-font-weight-600 g-color-white">+21</li>
@@ -99,7 +99,7 @@
           <div class="col-lg-4 col-md-6 g-mb-30 g-mb-0--lg">
             <article class="u-block-hover u-shadow-v21 rounded">
               <figure class="u-bg-overlay g-bg-black-opacity-0_4--after">
-                <img class="img-fluid w-100 u-block-hover__main--zoom-v1" src="../../assets/img-temp/400x270/img13.jpg" alt="Image description">
+                <img class="img-fluid w-100 u-block-hover__main--zoom-v1" src="{{asset('unify/assets/img-temp/400x270/img13.jpg')}}" alt="Image description">
               </figure>
 
               <header class="u-bg-overlay__inner g-pos-abs g-top-30 g-right-30 g-left-30 g-color-white">
@@ -112,17 +112,17 @@
               <ul class="list-inline u-bg-overlay__inner g-pos-abs g-bottom-10 g-left-30 g-opacity-0_8">
                 <li class="list-inline-item">
                   <div class="g-brd-around g-brd-2 g-brd-white rounded-circle">
-                    <img class="g-width-30 g-height-30 rounded-circle" src="../../assets/img-temp/100x100/img7.jpg" alt="Image description">
+                    <img class="g-width-30 g-height-30 rounded-circle" src="{{asset('unify/assets/img-temp/100x100/img7.jpg')}}" alt="Image description">
                   </div>
                 </li>
                 <li class="list-inline-item g-ml-minus-20">
                   <div class="g-brd-around g-brd-2 g-brd-white rounded-circle">
-                    <img class="g-width-30 g-height-30 rounded-circle" src="../../assets/img-temp/100x100/img4.jpg" alt="Image description">
+                    <img class="g-width-30 g-height-30 rounded-circle" src="{{asset('unify/assets/img-temp/100x100/img4.jpg')}}" alt="Image description">
                   </div>
                 </li>
                 <li class="list-inline-item g-ml-minus-20">
                   <div class="g-brd-around g-brd-2 g-brd-white rounded-circle">
-                    <img class="g-width-30 g-height-30 rounded-circle" src="../../assets/img-temp/100x100/img5.jpg" alt="Image description">
+                    <img class="g-width-30 g-height-30 rounded-circle" src="{{asset('unify/assets/img-temp/100x100/img5.jpg')}}" alt="Image description">
                   </div>
                 </li>
                 <li class="list-inline-item g-font-weight-600 g-color-white">+42</li>
@@ -133,7 +133,7 @@
           <div class="col-lg-4 col-md-6">
             <article class="u-block-hover u-shadow-v21 rounded">
               <figure class="u-bg-overlay g-bg-black-opacity-0_4--after">
-                <img class="img-fluid w-100 u-block-hover__main--zoom-v1" src="../../assets/img-temp/400x270/img3.jpg" alt="Image description">
+                <img class="img-fluid w-100 u-block-hover__main--zoom-v1" src="{{asset('unify/assets/img-temp/400x270/img3.jpg')}}" alt="Image description">
               </figure>
 
               <header class="u-bg-overlay__inner g-pos-abs g-top-30 g-right-30 g-left-30 g-color-white">
@@ -146,17 +146,17 @@
               <ul class="list-inline u-bg-overlay__inner g-pos-abs g-bottom-10 g-left-30 g-opacity-0_8">
                 <li class="list-inline-item">
                   <div class="g-brd-around g-brd-2 g-brd-white rounded-circle">
-                    <img class="g-width-30 g-height-30 rounded-circle" src="../../assets/img-temp/100x100/img5.jpg" alt="Image description">
+                    <img class="g-width-30 g-height-30 rounded-circle" src="{{asset('unify/assets/img-temp/100x100/img5.jpg')}}" alt="Image description">
                   </div>
                 </li>
                 <li class="list-inline-item g-ml-minus-20">
                   <div class="g-brd-around g-brd-2 g-brd-white rounded-circle">
-                    <img class="g-width-30 g-height-30 rounded-circle" src="../../assets/img-temp/100x100/img7.jpg" alt="Image description">
+                    <img class="g-width-30 g-height-30 rounded-circle" src="{{asset('unify/assets/img-temp/100x100/img7.jpg')}}" alt="Image description">
                   </div>
                 </li>
                 <li class="list-inline-item g-ml-minus-20">
                   <div class="g-brd-around g-brd-2 g-brd-white rounded-circle">
-                    <img class="g-width-30 g-height-30 rounded-circle" src="../../assets/img-temp/100x100/img6.jpg" alt="Image description">
+                    <img class="g-width-30 g-height-30 rounded-circle" src="{{asset('unify/assets/img-temp/100x100/img6.jpg')}}" alt="Image description">
                   </div>
                 </li>
                 <li class="list-inline-item g-font-weight-600 g-color-white">+15</li>
@@ -173,7 +173,7 @@
     <!-- Most Quality Solution -->
     <section class="dzsparallaxer auto-init height-is-based-on-content use-loading" data-options='{direction: "reverse", settings_mode_oneelement_max_offset: "150"}'>
       <!-- Parallax Image -->
-      <div class="divimage dzsparallaxer--target w-100 u-bg-overlay g-bg-img-hero g-bg-white-opacity-0_7--after" style="height: 140%; background-image: url(../../assets/img-temp/1920x1080/img7.jpg);"></div>
+      <div class="divimage dzsparallaxer--target w-100 u-bg-overlay g-bg-img-hero g-bg-white-opacity-0_7--after" style="height: 140%; background-image: url(/unify/assets/img-temp/1920x1080/img7.jpg);"></div>
       <!-- End Parallax Image -->
 
       <div class="container u-bg-overlay__inner g-py-150--md g-py-80">
@@ -186,9 +186,9 @@
             <p class="g-font-size-16 g-line-height-2 g-mb-30">Morbi a suscipit ipsum. Suspendisse mollis libero ante. Pellentesque finibus convallis nulla vel placerat. Nulla ipsum dolor sit amet, consectetur adipiscing elitut eleifend nisl. Ullam elementum tincidunt massa, a pulvinar leo ultricies ut.</p>
 
             <div class="g-mb-30">
-              <img class="u-block-hover__main--grayscale g-width-100 g-opacity-0_6 g-mr-40 g-mb-10 g-mb-0--sm" src="../../assets/img-temp/200x100/img8.png" alt="Image description">
-              <img class="u-block-hover__main--grayscale g-width-100 g-opacity-0_6 g-mr-40 g-mb-10 g-mb-0--sm" src="../../assets/img-temp/200x100/img6.png" alt="Image description">
-              <img class="u-block-hover__main--grayscale g-width-100 g-opacity-0_6" src="../../assets/img-temp/200x100/img3.png" alt="Image description">
+              <img class="u-block-hover__main--grayscale g-width-100 g-opacity-0_6 g-mr-40 g-mb-10 g-mb-0--sm" src="{{asset('unify/assets/img-temp/200x100/img8.png')}}" alt="Image description">
+              <img class="u-block-hover__main--grayscale g-width-100 g-opacity-0_6 g-mr-40 g-mb-10 g-mb-0--sm" src="{{asset('unify/assets/img-temp/200x100/img6.png')}}" alt="Image description">
+              <img class="u-block-hover__main--grayscale g-width-100 g-opacity-0_6" src="{{asset('unify/assets/img-temp/200x100/img3.png')}}" alt="Image description">
             </div>
 
             <a href="#!" class="btn btn-xl u-btn-primary text-uppercase g-font-weight-600 g-font-size-12 rounded g-mr-15 g-mb-15 g-mb-0--sm">Buy Full Version</a>
@@ -241,7 +241,7 @@
 
 
     <!-- Call To Action -->
-    <section class="g-bg-primary g-color-white g-pa-30" style="background-image: url(../../assets/img/bg/pattern5.png);">
+    <section class="g-bg-primary g-color-white g-pa-30" style="background-image: url(/unify/assets/img/bg/pattern5.png);">
       <div class="d-md-flex justify-content-md-center text-center">
         <div class="align-self-md-center">
           <p class="lead g-font-weight-400 g-mr-20--md g-mb-15 g-mb-0--md">We offer best in class service for your needs</p>

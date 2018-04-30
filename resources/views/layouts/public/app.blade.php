@@ -64,6 +64,7 @@
   <!-- JS Implementing Plugins -->
   <script src="{{asset('unify/assets/vendor/slick-carousel/slick/slick.js')}}"></script>
   <script src="{{asset('unify/assets/vendor/hs-megamenu/src/hs.megamenu.js')}}"></script>
+  <script src="{{asset('unify/assets/vendor/appear.js')}}"></script>
   <script src="{{asset('unify/assets/vendor/dzsparallaxer/dzsparallaxer.js')}}"></script>
   <script src="{{asset('unify/assets/vendor/dzsparallaxer/dzsscroller/scroller.js')}}"></script>
   <script src="{{asset('unify/assets/vendor/dzsparallaxer/advancedscroller/plugin.js')}}"></script>
@@ -79,6 +80,7 @@
   <script src="{{asset('unify/assets/js/components/hs.popup.js')}}"></script>
   <script src="{{asset('unify/assets/js/components/text-animation/hs.text-slideshow.js')}}"></script>
   <script src="{{asset('unify/assets/js/components/hs.go-to.js')}}"></script>
+  <script src="{{asset('unify/assets/js/components/hs.onscroll-animation.js')}}"></script>
 
   <!-- JS Customization -->
   <script src="{{asset('unify/assets/js/custom.js')}}"></script>
@@ -97,6 +99,9 @@
 
         // initialization of go to
         $.HSCore.components.HSGoTo.init('.js-go-to');
+
+        // initialization of scroll animation
+      $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
 
         // initialization of text animation (typing)
         $(".u-text-animation.u-text-animation--typing").typed({
