@@ -8,40 +8,28 @@
               <h2 class="u-heading-v2__title h6 text-uppercase mb-0">About Us</h2>
             </div>
 
-            <p>About Unify dolor sit amet, consectetur adipiscing elit. Maecenas eget nisl id libero tincidunt sodales.</p>
+            <p>Marak Inc. was created in 2008 as a consulting and training company. Our facilitators are extremely talented and experienced, having advised presidents of countries and CEO’s of multinational oil/gas entities on technical/non-technical matters, including fiscal oil and gas issues. </p>
           </div>
           <!-- End Footer Content -->
 
           <!-- Footer Content -->
-          <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
-            <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-              <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Latest Posts</h2>
+          <div class="col-lg-3 col-md-6">
+            <div class="u-heading-v3-1 g-brd-white-opacity-0_3 g-mb-25">
+              <h2 class="u-heading-v3__title h6 text-uppercase g-brd-primary"> UK Office</h2>
             </div>
 
-            <article>
-              <h3 class="h6 g-mb-2">
-            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">Incredible template</a>
-          </h3>
-              <div class="small g-color-white-opacity-0_6">May 8, 2017</div>
-            </article>
-
-            <hr class="g-brd-white-opacity-0_1 g-my-10">
-
-            <article>
-              <h3 class="h6 g-mb-2">
-            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">New features</a>
-          </h3>
-              <div class="small g-color-white-opacity-0_6">June 23, 2017</div>
-            </article>
-
-            <hr class="g-brd-white-opacity-0_1 g-my-10">
-
-            <article>
-              <h3 class="h6 g-mb-2">
-            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">New terms and conditions</a>
-          </h3>
-              <div class="small g-color-white-opacity-0_6">September 15, 2017</div>
-            </article>
+            <address class="g-bg-no-repeat g-line-height-2 g-mt-minus-4" style="background-image: url(/unify/assets/img/maps/map2.png);">
+              6 International Avenue
+              <br>
+              ABZ Business Park, Dyce
+              <br>
+              Aberdeen, AB21 0BH
+              <br>
+              United Kingdom
+              <br>
+              Email:
+              <a href="mailto:info@htmlstream.com" class="">info@marakconsulting.com</a>
+            </address>
           </div>
           <!-- End Footer Content -->
 
@@ -90,50 +78,25 @@
 
           <!-- Footer Content -->
           <div class="col-lg-3 col-md-6">
-            <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
-              <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Our Contacts</h2>
+            <div class="u-heading-v3-1 g-brd-white-opacity-0_3 g-mb-25">
+              <h2 class="u-heading-v3__title h6 text-uppercase g-brd-primary"> US Office</h2>
             </div>
 
-            <address class="g-bg-no-repeat g-font-size-12 mb-0" style="background-image: url(../../assets/img/maps/map2.png);">
-          <!-- Location -->
-          <div class="d-flex g-mb-20">
-            <div class="g-mr-10">
-              <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
-                <i class="fa fa-map-marker"></i>
-              </span>
-            </div>
-            <p class="mb-0">795 Folsom Ave, Suite 600, <br> San Francisco, CA 94107 795</p>
-          </div>
-          <!-- End Location -->
-
-          <!-- Phone -->
-          <div class="d-flex g-mb-20">
-            <div class="g-mr-10">
-              <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
-                <i class="fa fa-phone"></i>
-              </span>
-            </div>
-            <p class="mb-0">(+123) 456 7890 <br> (+123) 456 7891</p>
-          </div>
-          <!-- End Phone -->
-
-          <!-- Email and Website -->
-          <div class="d-flex g-mb-20">
-            <div class="g-mr-10">
-              <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
-                <i class="fa fa-globe"></i>
-              </span>
-            </div>
-            <p class="mb-0">
-              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="mailto:info@htmlstream.com">info@htmlstream.com</a>
+            <address class="g-bg-no-repeat g-line-height-2 g-mt-minus-4" style="background-image: url(/unify/assets/img/maps/map2.png);">
+              2502 La Branch St.
               <br>
-              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#!">www.htmlstream.com</a>
-            </p>
-          </div>
-          <!-- End Email and Website -->
-        </address>
+              Houston, Texas, USA
+              <br>
+              Phone: +1 403 4028127
+              <br>
+              Fax: +1 403 4028127
+              <br>
+              Email:
+              <a href="mailto:info@htmlstream.com" class="">info@marakconsulting.com</a>
+            </address>
           </div>
           <!-- End Footer Content -->
+
         </div>
       </div>
     </div>
